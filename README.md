@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I am obsessed with basketball**
 
-<img align="right" width="600" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp">
+<img align="right" width="550" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp">
 
 <div>
   <h3 align="left">Connect with me:</h3>
