@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minura Punchihewa</h1>
-<h3 align="center">A passionate Data Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Data Engineer from Sri Lanka, whose passion is to enable organizations to realize the true value oftheir data, one million records at a time!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minurapunchihewa&label=Profile%20views&color=0e75b6&style=flat" alt="minurapunchihewa" /> </p>
 
