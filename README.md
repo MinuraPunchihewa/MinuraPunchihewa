@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Minura Punchihewa</h1>
 <h3 align="center">An agile Data Engineer from Sri Lanka, whose passion is to enable organizations to realize the true value of their data, one million records at a time!</h3>
 <p align="middle">
+  <a href="https://www.credly.com/badges/c9786d10-db8b-45b7-b658-755950d18517/linked_in_profile" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="aws-saa" width="100" height="100" />
+  </a>
   <a href="https://www.credly.com/badges/4f52d0c3-6d52-47f0-829c-b99472ed77dd?source=linked_in_profile" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="aws-saa" width="80" height="80" />
+    <img src="https://images.credly.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="az-da" width="100" height="100" />
   </a>
 </p>
 
