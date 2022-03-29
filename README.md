@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **minurapunchihewa17@gmail.com**
 
-<img aligh="right" width="400" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp">
+<img align="right" width="400" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
