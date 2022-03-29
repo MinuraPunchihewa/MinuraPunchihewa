@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Minura Punchihewa</h1>
 <h3 align="center">A passionate Data Engineer from Sri Lanka</h3>
 <img align="right" width="400" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp">
-
+<!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minurapunchihewa&label=Profile%20views&color=0e75b6&style=flat" alt="minurapunchihewa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minurapunchihewa" alt="minurapunchihewa" /></a> </p>
-
+ -->
 - 🌱 I’m currently learning **Databricks, Linux**
 
 - 💬 Ask me about **Python, Spark, SQL, Airflow, Kedro**
