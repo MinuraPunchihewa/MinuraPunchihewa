@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minurapunchihewa" alt="minurapunchihewa" /></a> </p> -->
 
-- 🌱 I’m currently learning **Databricks, Linux**
+- 🌱 I’m currently learning **Databricks, Linux, DevOps**
 
 - 💬 Ask me about **Python, Spark, SQL, Airflow, Kedro**
 
