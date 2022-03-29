@@ -12,13 +12,12 @@
 - 📫 How to reach me **minurapunchihewa17@gmail.com**
 
 <div>
-  <img align="right" width="400" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp">
   <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://linkedin.com/in/minurapunchihewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minurapunchihewa" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/9542989/minura-punchihewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9542989/minura-punchihewa" height="30" width="40" /></a>
   </p>
-
+  <img align="right" width="400" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp">
   <h4 align="left">Programming Languages:</h4>
   <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
