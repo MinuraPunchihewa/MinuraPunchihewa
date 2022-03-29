@@ -1,3 +1,4 @@
+[![MasterHead](https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp)]
 <h1 align="center">Hi 👋, I'm Minura Punchihewa</h1>
 <h3 align="center">A passionate Data Engineer from Sri Lanka</h3>
 
@@ -17,7 +18,7 @@
 <a href="https://stackoverflow.com/users/9542989/minura-punchihewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9542989/minura-punchihewa" height="30" width="40" /></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp">
+<!-- <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp"> -->
 
 <h4 align="left">Programming Languages:</h4>
 <p align="left">
