@@ -17,7 +17,7 @@
 <a href="https://stackoverflow.com/users/9542989/minura-punchihewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9542989/minura-punchihewa" height="30" width="40" /></a>
 </p>
 
-<iframe src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/fryY00CO4xCz4uJuDQ">
 
 
 <h4 align="left">Programming Languages:</h4>
