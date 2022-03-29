@@ -8,6 +8,9 @@
     <img src="https://images.credly.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="az-da" width="100" height="100" />
   </a>
 </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=minurapunchihewa&label=Profile%20views&color=0e75b6&style=flat" alt="minurapunchihewa" /> 
+</p> 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minurapunchihewa" alt="minurapunchihewa" /></a> </p> -->
 
@@ -19,12 +22,8 @@
 
 - ⚡ Fun fact **I am obsessed with basketball**
 
-<img align="right" width="500" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp">
-
 <div align-items: "center">
-  <p align="left">
-    <img vertical-align: "middle" src="https://komarev.com/ghpvc/?username=minurapunchihewa&label=Profile%20views&color=0e75b6&style=flat" alt="minurapunchihewa" /> 
-  </p> 
+  <img align="right" width="500" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp">
   <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://linkedin.com/in/minurapunchihewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minurapunchihewa" height="30" width="40" /></a>
