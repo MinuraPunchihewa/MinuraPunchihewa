@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **minurapunchihewa17@gmail.com**
 
+- ⚡ Fun fact **I am obsessed with basketball**
+
 <img align="right" width="600" src="https://i.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp">
 
 <div>
