@@ -24,6 +24,34 @@
 
 - ⚡ Fun fact **I am obsessed with basketball**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/minurapunchihewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minurapunchihewa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9542989/minura-punchihewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9542989/minura-punchihewa" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Choice of Weapons:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
+  </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="flask" width="40" height="40" />
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow" width="40" height="40" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+  </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
+  </a>
+</p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=minurapunchihewa&show_icons=true&locale=en&layout=compact" alt="minurapunchihewa" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minurapunchihewa&show_icons=true&locale=en" alt="minurapunchihewa" /></p>
