@@ -39,13 +39,13 @@
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
   </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="flask" width="80" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="flask" width="70" height="40" />
   </a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow" width="40" height="40" />
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" alt="aws" width="80" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" alt="aws" width="70" height="40" />
   </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
