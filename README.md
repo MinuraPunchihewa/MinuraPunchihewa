@@ -38,7 +38,10 @@
   <h4 align="left">Data Engineering:</h4>
   <p align="left">
     <a href="https://kedro.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/kedro-org/kedro/develop/static/img/kedro_banner.png" alt="kedro" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/kedro-org/kedro/develop/static/img/kedro_banner.png" alt="kedro" width="80" height="40" />
+    </a>
+    <a href="https://azure.microsoft.com/en-us/services/data-factory/" target="_blank" rel="noreferrer">
+      <img src="https://www.clipartmax.com/png/middle/152-1520624_azure-data-factory-azure-data-factory-logo.png" alt="adf" width="40" height="40" />
     </a>
   </p>
   <h4 align="left">API Development:</h4>
