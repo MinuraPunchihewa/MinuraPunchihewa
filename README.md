@@ -45,7 +45,7 @@
     <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow" width="40" height="40" />
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" alt="aws" width="80" height="40" />
   </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
