@@ -14,15 +14,15 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minurapunchihewa" alt="minurapunchihewa" /></a> </p> -->
 
-- 🏢 I'm currently working at **BlackSwan Technologies, Sri Lanka**
+- 🏢 I'm currently working at: **BlackSwan Technologies, Sri Lanka**
 
-- 🌱 I’m currently learning **Databricks, Linux, DevOps**
+- 🌱 I’m currently learning: **Databricks, Linux, DevOps**
 
-- 💬 Ask me about **Python, Spark, SQL, Airflow, Kedro**
+- 💬 Ask me about: **Python, Spark, SQL, Airflow, Kedro**
 
-- 📫 How to reach me **minurapunchihewa17@gmail.com**
+- 📫 How to reach me: **minurapunchihewa17@gmail.com**
 
-- ⚡ Fun fact **I am obsessed with basketball**
+- ⚡ Fun fact: **I am obsessed with basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
