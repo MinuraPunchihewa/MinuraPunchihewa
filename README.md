@@ -24,8 +24,8 @@
 
 - ⚡ Fun fact **I am obsessed with basketball**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minurapunchihewa&show_icons=true&locale=en&layout=compact" alt="minurapunchihewa" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minurapunchihewa&show_icons=true&locale=en&layout=compact" alt="minurapunchihewa" /></p>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minurapunchihewa&show_icons=true&locale=en" alt="minurapunchihewa" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minurapunchihewa&" alt="minurapunchihewa" /></p>
