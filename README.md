@@ -16,7 +16,7 @@
 
 - 🏢 I'm currently working at: **BlackSwan Technologies, Sri Lanka**
 
-- 🌱 I’m currently learning: **Databricks,Kedro, Airbyte, dbt, Linux, DevOps**
+- 🌱 I’m currently learning: **Databricks, Kedro, Airbyte, dbt, Linux, DevOps**
 
 - 💬 Ask me about: **Python, SQL, Spark, Airflow**
 
