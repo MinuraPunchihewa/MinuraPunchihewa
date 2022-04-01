@@ -16,13 +16,13 @@
 
 - 🏢 I'm currently working at: **BlackSwan Technologies, Sri Lanka**
 
-- 🌱 I’m currently learning: **Databricks, Linux, DevOps**
+- 🌱 I’m currently learning: **Databricks,Kedro, Airbyte, dbt, Linux, DevOps**
 
-- 💬 Ask me about: **Python, Spark, SQL, Airflow, Kedro**
+- 💬 Ask me about: **Python, SQL, Spark, Airflow**
 
 - 📫 How to reach me: **minurapunchihewa17@gmail.com**
 
-- ⚡ Fun fact: **I am obsessed with basketball**
+- ⚡ Fun fact: **There are a couple of things I am obsessed with, basketball and anime**
 
 <h3 align="left">Hit me up:</h3>
 <p align="left">
