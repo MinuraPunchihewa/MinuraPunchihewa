@@ -14,7 +14,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minurapunchihewa" alt="minurapunchihewa" /></a> </p> -->
 
-- 🏢 I'm currently working at: **BlackSwan Technologies, Sri Lanka**
+- 🏢 I'm currently working at: **OCTAVE - John Keells Group, Sri Lanka**
 
 - 🌱 I’m currently learning: **Databricks, Kedro, Airbyte, dbt, Linux, DevOps**
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me: **minurapunchihewa17@gmail.com**
 
-- ⚡ Fun fact: **I am pretty obsessed with both basketball and anime.**
+- ⚡ Fun fact: **I am pretty obsessed with both basketball and anime**
 
 <h3 align="left">Hit me up:</h3>
 <p align="left">
