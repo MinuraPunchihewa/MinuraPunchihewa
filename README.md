@@ -22,7 +22,7 @@
 
 - 📫 How to reach me: **minurapunchihewa17@gmail.com**
 
-- ⚡ Fun fact: **I am pretty obsessed with both basketball and anime**
+- ⚡ Fun fact: **I am pretty obsessed with both basketball and anime, basketball anime just blows my mind**
 
 <h3 align="left">Hit me up:</h3>
 <p align="left">
