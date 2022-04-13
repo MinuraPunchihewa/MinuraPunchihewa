@@ -39,7 +39,7 @@
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
   </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="flask" width="70" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="flask" width="70" height="40" />
   </a>
   <a href="https://databricks.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="flask" width="70" height="40" />
