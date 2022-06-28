@@ -2,7 +2,7 @@
 <h3 align="center">An agile Data Engineer from Sri Lanka, who is passionate about extracting true value from data, one million records at a time!</h3>
 <p align="middle">
   <a href="https://www.credly.com/badges/4f52d0c3-6d52-47f0-829c-b99472ed77dd?source=linked_in_profile" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="aws-saa" width="100" height="100" />
+    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="aws-saa" width="100" height="100" />
   </a>
   <a href="https://www.credly.com/badges/c9786d10-db8b-45b7-b658-755950d18517/linked_in_profile" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="az-da" width="100" height="100" />
