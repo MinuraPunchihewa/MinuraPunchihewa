@@ -7,6 +7,9 @@
   <a href="https://www.credly.com/badges/c9786d10-db8b-45b7-b658-755950d18517/linked_in_profile" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="az-da" width="100" height="100" />
   </a>
+  <a href="https://credentials.databricks.com/7d03c184-1c39-4c2a-a28e-3075d213f73f#gs.6bbm8p" target="_blank" rel="noreferrer">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55026743" alt="aws-saa" width="100" height="100" />
+  </a>
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=minurapunchihewa&label=Profile%20views&color=0e75b6&style=flat" alt="minurapunchihewa" /> 
