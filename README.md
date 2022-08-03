@@ -19,7 +19,7 @@
 
 - 🏢 I'm currently working at: **OCTAVE - John Keells Group, Sri Lanka**
 
-- 🔭 I’m currently working on [MindsDB](https://github.com/mindsdb/mindsdb)
+- 🔭 I’m currently working on: [MindsDB](https://github.com/mindsdb/mindsdb) & [naas](https://github.com/jupyter-naas/awesome-notebooks)
 
 - 🌱 I’m currently learning: **Databricks, Kedro, Airbyte, dbt, Linux, DevOps**
 
@@ -71,7 +71,3 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=minurapunchihewa&show_icons=true&locale=en" alt="minurapunchihewa" /></p>
 <br>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=minurapunchihewa&" alt="minurapunchihewa" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minurapunchihewa" alt="minurapunchihewa" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minurapunchihewa&show_icons=true&locale=en&layout=compact" alt="minurapunchihewa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minurapunchihewa&show_icons=
