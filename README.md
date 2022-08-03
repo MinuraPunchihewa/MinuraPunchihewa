@@ -19,7 +19,7 @@
 
 - 🏢 I'm currently working at: **OCTAVE - John Keells Group, Sri Lanka**
 
-- 🔭 I’m currently working on: [MindsDB](https://github.com/mindsdb/mindsdb) & [naas](https://github.com/jupyter-naas/awesome-notebooks)
+- 🔭 I’m currently working on: [MindsDB](https://github.com/mindsdb/mindsdb) **&** [naas](https://github.com/jupyter-naas/awesome-notebooks)
 
 - 🌱 I’m currently learning: **Databricks, Kedro, Airbyte, dbt, Linux, DevOps**
 
