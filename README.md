@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Minura Punchihewa</h1>
-<h3 align="center">An agile Data Engineer from Sri Lanka, who is passionate about extracting true value from data, one million records at a time!</h3>
+<h3 align="center">An agile Data Engineer from Sri Lanka, passionate about extracting true value from data, one million records at a time!</h3>
 <p align="middle">
   <a href="https://www.credly.com/badges/4f52d0c3-6d52-47f0-829c-b99472ed77dd?source=linked_in_profile" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="aws-saa" width="100" height="100" />
   </a>
   <a href="https://www.credly.com/badges/c9786d10-db8b-45b7-b658-755950d18517/linked_in_profile" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="az-da" width="100" height="100" />
+  <a href="https://www.credly.com/badges/c9786d10-db8b-45b7-b658-755950d18517/linked_in_profile" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="az-da" width="100" height="100" />
   </a>
-  <a href="https://credentials.databricks.com/7d03c184-1c39-4c2a-a28e-3075d213f73f#gs.6bbm8p" target="_blank" rel="noreferrer">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55026743" alt="aws-saa" width="100" height="100" />
+  <a href="https://credentials.databricks.com/2f4563ae-6a69-41a3-bf67-05a5bb408317" target="_blank" rel="noreferrer">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58996377" alt="aws-saa" width="100" height="100" />
   </a>
 </p>
 <p align="left">
