@@ -24,9 +24,9 @@
 
 - 🔭 I’m currently working on: **[MindsDB](https://github.com/mindsdb/mindsdb) & [naas](https://github.com/jupyter-naas/awesome-notebooks)**
 
-- 🌱 I’m currently learning: **Databricks, Kedro, Airbyte, dbt, Linux, DevOps**
+- 🌱 I’m currently learning: **Airbyte, dbt, LakeFS, Linux, DevOps**
 
-- 💬 Ask me about: **Python, SQL, Spark, Airflow**
+- 💬 Ask me about: **Python, SQL, Spark, Databricks, Kedro**
 
 - 📫 How to reach me: **minurapunchihewa17@gmail.com**
 
