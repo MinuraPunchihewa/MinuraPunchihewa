@@ -6,11 +6,12 @@
   </a>
   <a href="https://www.credly.com/badges/c9786d10-db8b-45b7-b658-755950d18517/linked_in_profile" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="az-da" width="100" height="100" />
-  <a href="https://www.credly.com/badges/c9786d10-db8b-45b7-b658-755950d18517/linked_in_profile" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="az-da" width="100" height="100" />
   </a>
   <a href="https://credentials.databricks.com/2f4563ae-6a69-41a3-bf67-05a5bb408317" target="_blank" rel="noreferrer">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58996377" alt="aws-saa" width="100" height="100" />
+  </a>
+  <a href="https://credentials.databricks.com/2f4563ae-6a69-41a3-bf67-05a5bb408317" target="_blank" rel="noreferrer">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58996377" width="100" height="100" />
   </a>
 </p>
 <p align="left">
