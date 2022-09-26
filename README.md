@@ -8,10 +8,10 @@
     <img src="https://images.credly.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="az-da" width="100" height="100" />
   </a>
   <a href="https://credentials.databricks.com/2f4563ae-6a69-41a3-bf67-05a5bb408317" target="_blank" rel="noreferrer">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58996377" alt="aws-saa" width="100" height="100" />
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58996377" alt="db-de" width="100" height="100" />
   </a>
-  <a href="https://credentials.databricks.com/2f4563ae-6a69-41a3-bf67-05a5bb408317" target="_blank" rel="noreferrer">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58996377" width="100" height="100" />
+  <a href="https://credentials.databricks.com/7d03c184-1c39-4c2a-a28e-3075d213f73f" target="_blank" rel="noreferrer">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55026743" alt="db-sda" width="100" height="100" />
   </a>
 </p>
 <p align="left">
