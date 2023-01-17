@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on: **[MindsDB](https://github.com/mindsdb/mindsdb) & [naas](https://github.com/jupyter-naas/awesome-notebooks)**
 
-- 🌱 I’m currently learning: **Airbyte, dbt, LakeFS, Linux, DevOps**
+- 🌱 I’m currently learning: **Snowflake, Airbyte, dbt, LakeFS, Linux, DevOps**
 
 - 💬 Ask me about: **Python, SQL, Spark, Databricks, Kedro**
 
