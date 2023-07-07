@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Minura Punchihewa</h1>
 <h3 align="center">An agile Data Engineer from Sri Lanka, passionate about extracting true value from data, one million records at a time!</h3>
 <p align="middle">
+  <a href="https://www.credly.com/badges/e13e0d9b-f167-4cec-bbdb-a9c5aebadc00/linked_in_profile" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="az-aa" width="100" height="100" />
+  </a>
   <a href="https://www.credly.com/badges/19e65ced-21f5-4f9b-986b-219a87324c7a/linked_in_profile" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="az-aa" width="100" height="100" />
   </a>
