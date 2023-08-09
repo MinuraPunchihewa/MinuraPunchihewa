@@ -28,7 +28,7 @@
 
 - 🏢 I'm currently working at: **OCTAVE - John Keells Group, Sri Lanka**
 
-- 🔭 I’m currently working on: **[MindsDB](https://github.com/mindsdb/mindsdb) & [naas](https://github.com/jupyter-naas/awesome-notebooks)**
+- 🔭 I’m currently working on: **[MindsDB](https://github.com/mindsdb/mindsdb) & [AI-Text-To-SQL](https://github.com/MinuraPunchihewa/ai-text-to-sql)**
 
 - 🌱 I’m currently learning: **Snowflake, Airbyte, dbt, LakeFS, Linux, DevOps**
 
