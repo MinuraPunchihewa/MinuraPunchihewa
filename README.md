@@ -26,7 +26,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minurapunchihewa" alt="minurapunchihewa" /></a> </p> -->
 
-- 🏢 I'm currently working at: **OCTAVE - John Keells Group, Sri Lanka**
+- 🏢 I'm currently working at: **MindsDB**
 
 - 🔭 I’m currently working on: **[MindsDB](https://github.com/mindsdb/mindsdb) & [AI-Text-To-SQL](https://github.com/MinuraPunchihewa/ai-text-to-sql)**
 
