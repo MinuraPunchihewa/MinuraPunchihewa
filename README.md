@@ -6,3 +6,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=minurapunchihewa&show_icons=true&locale=en" alt="minurapunchihewa_stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minurapunchihewa&" alt="minurapunchihewa_stats" />
 </p>
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
