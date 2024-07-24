@@ -4,4 +4,4 @@
 
 Hello World 👋,
 
-I'm halfway between a Software Engineer and a Data Engineer. While I love messing around with big datasets, nothing beats the thrill of creating something people find useful. One thing is for certain though—I love open source! Each contribution I make is my way of leaving a mark on the world.
+As a Full Stack Engineer who moonlights as a Data Engineer, I love playing with big datasets, but nothing beats the thrill of creating something people find useful. I've admired open source software for as long as I can remember, and today, I use it as a means to leave a mark on the world.
