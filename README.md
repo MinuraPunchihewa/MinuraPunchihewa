@@ -2,9 +2,6 @@
   <img src="images/gh_profile_pic.png" alt="minurapunchihewa" />
 </p>
 
-<p align="center">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=minurapunchihewa&show_icons=true&locale=en" alt="minurapunchihewa_stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minurapunchihewa&" alt="minurapunchihewa_stats" />
-</p>
+Hello World 👋,
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+I'm halfway between a Software Engineer and a Data Engineer. While I love messing around with big datasets, nothing beats the thrill of creating something people find useful. One thing is for certain though—I love open source! Each contribution I make is my way of leaving a mark on the world.
