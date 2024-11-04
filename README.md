@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="images/gh_profile_pic.png" alt="minurapunchihewa" />
+  <img src="images/gh_profile_pic_software_engineer.png" alt="minurapunchihewa" />
 </p>
 
 <p>
