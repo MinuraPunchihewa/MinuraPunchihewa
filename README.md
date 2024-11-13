@@ -6,10 +6,13 @@
   
 Hello, World 👋,
 
-As a Full Stack Engineer who moonlights as a Data Engineer, I love messing around with big datasets, but nothing beats the thrill of creating something people find useful. I've admired open source software for as long as I can remember, and today, I use it as a means to leave a mark on the world.
+I identify primarily as a Software Engineer, but I often don the hat of a Data Engineer when the need arises.
 
-- 💻✨💪 Stuff I think I am good at: Python, SQL, Databricks.
-- 🌱📚🤞 Stuff I want to be good at: Rust, TypeScript.
+I'm here to build cool things, break a few (responsibly), and learn something new every step of the way. Whether it's my own project or someone else’s, my goal is to leave a trail of show-stopping bugs, occasional breakthroughs, and contributions that make people wonder, "Who built this?!
+That will be my legacy.
+
+- 💻✨💪 Stuff I think I am good at: Python, SQL, Spark, Databricks.
+- 🌱📚🤞 Stuff I want to be good at: Rust, GraphQL, TypeScript.
 
 </p>
 
