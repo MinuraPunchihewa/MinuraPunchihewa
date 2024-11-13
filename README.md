@@ -4,9 +4,12 @@
 
 <p>
   
-Hello World 👋,
+Hello, World 👋,
 
 As a Full Stack Engineer who moonlights as a Data Engineer, I love messing around with big datasets, but nothing beats the thrill of creating something people find useful. I've admired open source software for as long as I can remember, and today, I use it as a means to leave a mark on the world.
+
+- 💻✨💪 Stuff I think I am good at: Python, SQL, Databricks.
+- 🌱📚🤞 Stuff I want to be good at: Rust, TypeScript.
 
 </p>
 
