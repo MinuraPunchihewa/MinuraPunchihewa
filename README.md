@@ -18,7 +18,6 @@ That will be my legacy.
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=minurapunchihewa&show_icons=true&locale=en" alt="minurapunchihewa" /></p>
 <br>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=minurapunchihewa&" alt="minurapunchihewa" /></p>
 
 ## 📫 How to Reach Me
 
