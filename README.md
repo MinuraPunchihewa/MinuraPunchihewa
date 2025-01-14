@@ -12,10 +12,15 @@ I'm here to build cool things, break a few (responsibly), and learn something ne
 That will be my legacy.
 
 - 💻✨💪 Stuff I think I am good at: Python, SQL, Spark, Databricks, Docker and Azure.
-- 🌱📚🤞 Stuff I want to be good at: Rust, GraphQL, TypeScript.
+- 🌱📚🤞 Stuff I want to be good at: Rust, GraphQL, React, TypeScript and Kubernetes.
 
 </p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=minurapunchihewa&show_icons=true&locale=en" alt="minurapunchihewa" /></p>
 <br>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=minurapunchihewa&" alt="minurapunchihewa" /></p>
+
+## 📫 How to Reach Me
+
+- 📧 Email: minurapuchihewa17@gmail.com
+- 📱 LinkedIn: [minurapunchihewa](https://www.linkedin.com/in/minurapunchihewa/)
